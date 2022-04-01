@@ -1,0 +1,6 @@
+framework module Pods_iOSVmTask_iOSVmTaskUITests {
+  umbrella header "Pods-iOSVmTask-iOSVmTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
